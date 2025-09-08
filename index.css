@@ -5,9 +5,9 @@ body {
 
 h1{
     text-align: center;
-    border: chartreuse;
-    border-color:red;
-    border-radius: 5px solid;
+    border:2px red;
+    border-style:solid;
+    border-radius: 15px solid;
     font:bold;
     font-size: x-large;
 
