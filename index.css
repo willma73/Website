@@ -1,12 +1,14 @@
 body {
     background-color:  pink;
+    border: white;
 }
 
 h1{
     text-align: center;
-    border-color: white;
-    border-radius: 50px solid;
+    border: chartreuse;
+    border-color:red;
+    border-radius: 5px solid;
     font:bold;
     font-style: italic;
-    color: blueviolet;
+ 
 }
