@@ -1,0 +1,12 @@
+body {
+    background-color:  pink;
+}
+
+h1{
+    text-align: center;
+    border-color: white;
+    border-radius: 50px solid;
+    font:bold;
+    font-style: italic;
+    color: blueviolet;
+}
