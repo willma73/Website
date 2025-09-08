@@ -5,10 +5,9 @@ body {
 
 h1{
     text-align: center;
-    border: 2px solid chartreuse;
+    border: chartreuse;
     border-color:red;
     border-radius: 5px solid;
-    
     font:bold;
     font-size: x-large;
 
